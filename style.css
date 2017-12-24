@@ -1,0 +1,39 @@
+*{
+	font-family: arial;
+	font-size: 15px;
+}
+
+#Genel{
+	width: 250px; 
+	margin: auto; 
+	padding-top: 25px;
+}
+
+.numaraVer{
+	padding: 11px 25px; 
+	background: #ffefd1; 
+	border: 1px dashed #666; 
+	color: #2a4685; 
+	border-radius: 5px; 
+	text-decoration: none; 
+	font-weight: bold;
+	display: block;
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+}
+.numaralar{
+
+	padding-top: 3px;
+	padding-right: 45px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border-bottom: 1px dashed #666; 
+	color: #2a4685; 
+	font-weight: bold;
+	display: block;
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+
+}
