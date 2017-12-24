@@ -1,5 +1,5 @@
 <?php
-
+ 
 function MesajOku($SmsApiKey, $ID){
     global $SmsApiKey;
 
