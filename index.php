@@ -1,10 +1,10 @@
 <?php
 
 error_reporting(0);
-$SmsApiKey = 'REPLACE_API_KEY';
+$SmsApiKey = 'REPLACE-API-KEY';
 
 include('Fonksiyonlar.php');
-
+ 
 ?>
 
 <!DOCTYPE html>
